@@ -2,6 +2,17 @@
 
 The change log describes what is "Added", "Removed", "Changed" or "Fixed" between each release.
 
+## 1.4.0
+
+### Added
+
+- Allow `psr/log` 2.0 and 3.0
+
+### Changed
+
+- Replace `empty()` by more strict checks
+- Fix `handleQuery()` in Locale plugin
+
 ## 1.3.0
 
 ### Added
